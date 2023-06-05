@@ -38,7 +38,53 @@
 	JVM (Java Virtual Machine) : it makes the application, Platform
 				     Independent.
 
+	============================================================
+
+	package : it is a folder.
+
+	Main Class Syntax:
+
+	package fundamentals;
+
+	public class FirstTest {
 	
+	public static void main(String[]args)
+	{
+		
+	}
+
+	}
+
+	Comments : it will ignore the line, while execution.
+
+	1) Single-line Comment
+	
+	//code
+
+	2) Multi-line Comment 
+
+	/*
+	multiple line code.
+	*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 	
 
