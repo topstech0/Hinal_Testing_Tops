@@ -1,0 +1,56 @@
+
+	Java : 3 parts
+
+	1) Java Standard Edition.(JSE)
+	2) Java Enterprise Edition. (JEE)
+	3) Java MicroServices Edition. (JMSE)
+
+	1) Core Java :
+
+	Introduction to Java
+	Features of Java
+	JDK,JRE,JVM
+	Variables,Datatypes
+	Conditional Statement
+	Looping Statement
+	Arrays
+	Class and Object
+	Constructor and Destructor
+	Introduction to OOP
+	Features of OOP
+	Inheritance,Encapsulation,Polymorphism,Data-Abstraction
+	Keywords : super,this,static,final
+	Exception Handling
+	File Management
+	Multithreading
+	Collections and Generics.	
+
+
+	Java : it was designed by James Gosling and his team in
+ 	       Sun-MicroSystem, which is now owned by Oracle.
+
+		JDK,JRE,JVM
+
+	JDK (Java Development Kit) : it internally contains JRE and JVM.
+
+	JRE (Java Runtime Environment) : it handles all the execution.
+
+	JVM (Java Virtual Machine) : it makes the application, Platform
+				     Independent.
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
