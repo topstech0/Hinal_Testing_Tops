@@ -1,5 +1,7 @@
 package fundamentals;
 
+import java.util.Scanner;
+
 /*
  * Data-types : There are multiple data-types in Java.
  * 
@@ -64,20 +66,34 @@ double		8 byte		Double
  * System.out.println("dfdsf");
  * 
  * 
+ * To Accept Value :
+ * 
+ * Scanner sc = new Scanner(System.in)
+ * 
  */
 
 public class FirstTest {
 	
 	public static void main(String[]args)
 	{
-		int A=47, c=43,d=42,e=23;
-		int b = 41;
+		//int A=47, c=43,d=42,e=23;
+		//int b = 41;
 		
 		System.out.println("Hello, Welcome to Core Java.");		
 		System.out.println("At Tops Tech.");
-		System.out.println("Value of A : "+A);
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter Value of A : ");
+		int a = sc.nextInt();		
+		System.out.println("Value of A : "+a);
+		System.out.println("Enter Value of B : ");
+		int b = sc.nextInt();		
 		System.out.println("Value of B : "+b);
-		
+		System.out.println("Enter your Name : ");
+		String name = sc.next();
+		System.out.println("Your Name is : "+name);
+		System.out.println("Enter your percentage : ");
+		float per = sc.nextFloat();
+		System.out.println("Your Percentage is : "+per);
 		
 	}
 
